@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Mis Ganancias",
+    "slug": "mis-ganancias-indrive",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f4f6f8"
+    },
+    "android": {
+      "package": "com.misganancias.indrive"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
